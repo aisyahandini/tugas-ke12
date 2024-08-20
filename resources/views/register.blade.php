@@ -40,13 +40,13 @@
     <label for="vehicle2"> English</label><br />
     <input type="checkbox" id="vehicle3" name="vehicle3" value="Other" />
     <label for="vehicle3"> Other</label>
-</form>
+</form>      
 <p>Bio:</p>
 <br>
 <textarea name="bio" rows="6" cols="25"></textarea>
 <br>
 <br>
-<a href="welcome.html"><button type="button">Sign Up</button></a>
+<a href="/welcome"class="submit"><button type="button">Sign Up</button></a>
 
   </body>
 </html>
